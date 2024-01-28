@@ -1,7 +1,5 @@
 # Hello!! 
  *I am Manju Kumari :smile:*
-- I am Fascinated by Web programming.
-- Currently improving my React skill.
 
 # Languags and Tools
  - HTML5 
